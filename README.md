@@ -8,6 +8,8 @@ This font's glyph follow the 《[通用规范汉字表（征求意见稿）](htt
 
 As a Simpified Chinese font derived from a Japanese font, it keeps some original design (e.g. compent '凵') to make it prettier.
 
+This font is still under construction.
+
 ## Copyright
 
 [IPA Font License Agreement v1.0](COPYRIGHT.txt).
